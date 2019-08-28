@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "hex": "#fdc2c8",
+    "name": "Pink"
+  },
+  {
+    "id": 2,
+    "hex": "#eb737c",
+    "name": "Apricot"
+  },
+  {
+    "id": 3,
+    "hex": "#778377",
+    "name": "Xanadu"
+  },
+  {
+    "id": 4,
+    "hex": "#a4a89d",
+    "name": "Bud"
+  },
+  {
+    "id": 5,
+    "hex": "#f2f8f7",
+    "name": "Aqua Haze"
+  },
+  {
+    "id": 6,
+    "hex": "#003100",
+    "name": "Deep Fir"
+  },
+  {
+    "id": 7,
+    "hex": "#5a9d2d",
+    "name": "Olive Drab"
+  },
+  {
+    "id": 8,
+    "hex": "#aec5aa",
+    "name": "Norway"
+  },
+  {
+    "id": 9,
+    "hex": "#d0e1ca",
+    "name": "Surf Crest"
+  },
+  {
+    "id": 10,
+    "hex": "#ecf5ed",
+    "name": "Harp"
+  },
+  {
+    "id": 11,
+    "hex": "#c7bab1",
+    "name": "Tea"
+  },
+  {
+    "id": 12,
+    "hex": "#bebcc1",
+    "name": "French Gray"
+  },
+  {
+    "id": 13,
+    "hex": "#a3ccf4",
+    "name": "Perano"
+  },
+  {
+    "id": 14,
+    "hex": "#6389df",
+    "name": "Havelock Blue"
+  },
+  {
+    "id": 15,
+    "hex": "#1f2b6c",
+    "name": "Biscay"
+  },
+  {
+    "id": 16,
+    "hex": "#a76869",
+    "name": "Coral Tree"
+  }
+]
